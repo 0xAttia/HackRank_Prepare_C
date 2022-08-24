@@ -1,1 +1,1 @@
-# HackRank_Prepare_C
+# HackerRank_Prepare_C
